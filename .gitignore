@@ -132,5 +132,7 @@ log/
 .log
 
 # media
+static/
+staticfiles/
 media/
 mediafiles/
